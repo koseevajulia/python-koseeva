@@ -1,1 +1,5 @@
-
+partner_name,contact_person,phone_number,email,address,contract_number,date_added,partner_type
+"Acme Corp","John Smith","555-1234","john.smith@acme.com","123 Main St, Anytown","CN-2023-001","2023-01-15","Reseller"
+"Beta Inc","Jane Doe","555-5678","jane.doe@beta.com","456 Oak Ave, Anytown","CN-2022-012","2022-11-20","Supplier"
+"Gamma Ltd","Peter Jones","555-9012","peter.jones@gamma.com","789 Pine Ln, Anytown","CN-2023-005","2023-03-10","Distributor"
+"Delta Co","Mary Brown","555-3456","mary.brown@delta.com","101 Elm Rd, Anytown","CN-2022-008","2022-09-01","Retailer"

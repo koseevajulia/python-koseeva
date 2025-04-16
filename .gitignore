@@ -1,1 +1,146 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.swp
+*.swo
+*.egg-info/
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+dist/
+build/
+wheels/
+MANIFEST.in
+*.manifest
+*.spec
+*.log
 
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+dist/
+build/
+eggs/
+.eggs/
+lib/*.egg
+lib64/*.egg
+parts/
+bin/
+sdist/
+*.egg-info/
+share/python-wheels/
+*.egg
+*.whl
+*.zip
+*.m
+*.pex
+develop-eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.py-locals/
+*.egg-info/
+.pytest_cache/
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS generated files #
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
+# Microsoft office temporary files
+~$*
+
+# SQLite
+*.sqlite
+*.sqlite3
+*.db
+database.db
+instance/
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs (IntelliJ, PyCharm, etc.)
+.idea/
+*.iml
+
+# OS X
+.DS_Store
+
+# Compiled source #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases #
+*.log
+*.sql
+*.data
+
+# Editor-related files #
+*~
+\#*
+.*.swp
+.DS_Store
+
+# Temp files
+*.~
+*.tmp
+tmp/
+
+# Backup files
+*.bak
+*.orig
+*.~
+
+# Virtualenv
+.venv/
+
+# node_modules
+node_modules/
+
+# Yarn
+.yarn/
+
+# NPM
+package-lock.json
+
+# Secrets
+*.key
+*.pem
+*.cert
+
+# Security
+.htpasswd

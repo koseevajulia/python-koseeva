@@ -57,8 +57,6 @@ def get_sales_history_by_partner(partner_id):
             conn.close()
     return sales
 
-# Добавьте функции для добавления, редактирования и удаления партнеров, продуктов и записей о продажах.
-# Пример функции добавления партнера:
 
 def add_new_partner(partner_name, contact_person, phone_number, email, address, contract_number, date_added, partner_type):
     """Добавляет нового партнера в базу данных."""
@@ -79,4 +77,3 @@ def add_new_partner(partner_name, contact_person, phone_number, email, address, 
         if conn:
             conn.close()
 
-# Аналогичные функции для добавления/редактирования/удаления продуктов и истории продаж
